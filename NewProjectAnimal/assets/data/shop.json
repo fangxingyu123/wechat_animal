@@ -1,0 +1,8 @@
+[
+    { "id": "cushion_pad", "name": "缓冲棉垫", "desc": "掉落时有一次缓冲机会，不直接死亡", "costType": "snack", "costAmount": 50, "itemType": "consumable", "itemId": "cushion_pad", "itemCount": 1, "dailyLimit": 5 },
+    { "id": "break_bone", "name": "破障骨头", "desc": "可以破坏一个危险方块", "costType": "snack", "costAmount": 80, "itemType": "consumable", "itemId": "break_bone", "itemCount": 1, "dailyLimit": 3 },
+    { "id": "score_catnip", "name": "积分猫薄荷", "desc": "下一关积分+30%", "costType": "snack", "costAmount": 120, "itemType": "consumable", "itemId": "score_catnip", "itemCount": 1, "dailyLimit": 3 },
+    { "id": "temp_invincible", "name": "限时无敌体验卡", "desc": "关卡开始10秒内无敌", "costType": "diamond", "costAmount": 5, "itemType": "consumable", "itemId": "temp_invincible", "itemCount": 1, "dailyLimit": 2 },
+    { "id": "revive_fish", "name": "复活小鱼干", "desc": "可原地复活一次", "costType": "diamond", "costAmount": 3, "itemType": "consumable", "itemId": "revive_fish", "itemCount": 1, "dailyLimit": 5 },
+    { "id": "snack_pack_s", "name": "零食小礼包", "desc": "获得100零食", "costType": "diamond", "costAmount": 2, "itemType": "currency", "itemId": "snack", "itemCount": 100, "dailyLimit": 10 }
+]

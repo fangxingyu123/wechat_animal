@@ -1,0 +1,17 @@
+[
+    { "id": "first_jump", "name": "第一跳", "desc": "完成第一次跳跃", "condition": "jump_count >= 1", "rewardType": "snack", "rewardAmount": 10 },
+    { "id": "combo_5", "name": "连击新手", "desc": "达成5连击", "condition": "max_combo >= 5", "rewardType": "snack", "rewardAmount": 30 },
+    { "id": "combo_10", "name": "连击达人", "desc": "达成10连击", "condition": "max_combo >= 10", "rewardType": "snack", "rewardAmount": 80 },
+    { "id": "combo_20", "name": "连击大师", "desc": "达成20连击", "condition": "max_combo >= 20", "rewardType": "diamond", "rewardAmount": 5 },
+    { "id": "yard_clear", "name": "庭院毕业", "desc": "通关庭院世界全部关卡", "condition": "world_1_clear", "rewardType": "snack", "rewardAmount": 200 },
+    { "id": "park_clear", "name": "公园达人", "desc": "通关公园世界全部关卡", "condition": "world_2_clear", "rewardType": "snack", "rewardAmount": 300 },
+    { "id": "petshop_clear", "name": "宠物店之星", "desc": "通关宠物店世界全部关卡", "condition": "world_3_clear", "rewardType": "diamond", "rewardAmount": 10 },
+    { "id": "forest_clear", "name": "森林探险家", "desc": "通关森林世界全部关卡", "condition": "world_4_clear", "rewardType": "diamond", "rewardAmount": 20 },
+    { "id": "starry_clear", "name": "星空守护者", "desc": "通关星空世界全部关卡", "condition": "world_5_clear", "rewardType": "diamond", "rewardAmount": 50 },
+    { "id": "challenge_buster", "name": "挑战克星", "desc": "单次关卡内连续破解3种不同随机挑战（间隔不超过30秒）", "condition": "challenge_streak >= 3", "rewardType": "diamond", "rewardAmount": 15 },
+    { "id": "all_chars", "name": "全员集合", "desc": "解锁全部4个角色", "condition": "unlocked_chars >= 4", "rewardType": "diamond", "rewardAmount": 20 },
+    { "id": "perfect_10", "name": "完美十连", "desc": "连续10次完美落地", "condition": "perfect_streak >= 10", "rewardType": "snack", "rewardAmount": 100 },
+    { "id": "multi_win_3", "name": "搭伙高手", "desc": "双人模式累计通关3次", "condition": "multi_clear >= 3", "rewardType": "snack", "rewardAmount": 150 },
+    { "id": "rescue_5", "name": "最佳拍档", "desc": "双人模式累计成功救援5次", "condition": "rescue_count >= 5", "rewardType": "diamond", "rewardAmount": 10 },
+    { "id": "share_king", "name": "分享达人", "desc": "累计分享10次", "condition": "share_count >= 10", "rewardType": "snack", "rewardAmount": 200 }
+]

@@ -1,0 +1,20 @@
+[
+    { "worldId": 1, "levelIndex": 1, "blockCount": 15, "difficulty": 0.1, "targetScore": 100, "challengeTypes": [], "isBoss": false, "starThresholds": [50, 100, 180] },
+    { "worldId": 1, "levelIndex": 2, "blockCount": 18, "difficulty": 0.15, "targetScore": 150, "challengeTypes": [], "isBoss": false, "starThresholds": [80, 150, 250] },
+    { "worldId": 1, "levelIndex": 3, "blockCount": 20, "difficulty": 0.2, "targetScore": 200, "challengeTypes": ["enemy_rush"], "isBoss": false, "starThresholds": [100, 200, 350] },
+    { "worldId": 1, "levelIndex": 4, "blockCount": 20, "difficulty": 0.2, "targetScore": 220, "challengeTypes": [], "isBoss": false, "starThresholds": [110, 220, 380] },
+    { "worldId": 1, "levelIndex": 5, "blockCount": 22, "difficulty": 0.25, "targetScore": 250, "challengeTypes": ["enemy_rush"], "isBoss": false, "starThresholds": [130, 250, 420] },
+    { "worldId": 1, "levelIndex": 6, "blockCount": 22, "difficulty": 0.25, "targetScore": 280, "challengeTypes": [], "isBoss": false, "starThresholds": [140, 280, 460] },
+    { "worldId": 1, "levelIndex": 7, "blockCount": 24, "difficulty": 0.3, "targetScore": 300, "challengeTypes": ["trap_ambush"], "isBoss": false, "starThresholds": [150, 300, 500] },
+    { "worldId": 1, "levelIndex": 8, "blockCount": 24, "difficulty": 0.3, "targetScore": 320, "challengeTypes": [], "isBoss": false, "starThresholds": [160, 320, 530] },
+    { "worldId": 1, "levelIndex": 9, "blockCount": 25, "difficulty": 0.35, "targetScore": 350, "challengeTypes": ["enemy_rush"], "isBoss": false, "starThresholds": [180, 350, 580] },
+    { "worldId": 1, "levelIndex": 10, "blockCount": 25, "difficulty": 0.35, "targetScore": 380, "challengeTypes": [], "isBoss": false, "starThresholds": [190, 380, 620] },
+    { "worldId": 1, "levelIndex": 11, "blockCount": 26, "difficulty": 0.4, "targetScore": 400, "challengeTypes": ["trap_ambush"], "isBoss": false, "starThresholds": [200, 400, 660] },
+    { "worldId": 1, "levelIndex": 12, "blockCount": 26, "difficulty": 0.4, "targetScore": 420, "challengeTypes": [], "isBoss": false, "starThresholds": [210, 420, 700] },
+    { "worldId": 1, "levelIndex": 13, "blockCount": 28, "difficulty": 0.45, "targetScore": 450, "challengeTypes": ["enemy_rush", "trap_ambush"], "isBoss": false, "starThresholds": [230, 450, 740] },
+    { "worldId": 1, "levelIndex": 14, "blockCount": 28, "difficulty": 0.45, "targetScore": 480, "challengeTypes": [], "isBoss": false, "starThresholds": [240, 480, 780] },
+    { "worldId": 1, "levelIndex": 15, "blockCount": 30, "difficulty": 0.5, "targetScore": 500, "challengeTypes": ["enemy_rush"], "isBoss": false, "starThresholds": [250, 500, 820] },
+    { "worldId": 1, "levelIndex": 16, "blockCount": 30, "difficulty": 0.5, "targetScore": 530, "challengeTypes": [], "isBoss": false, "starThresholds": [270, 530, 860] },
+    { "worldId": 1, "levelIndex": 17, "blockCount": 32, "difficulty": 0.55, "targetScore": 560, "challengeTypes": ["trap_ambush"], "isBoss": false, "starThresholds": [280, 560, 900] },
+    { "worldId": 1, "levelIndex": 18, "blockCount": 35, "difficulty": 0.6, "targetScore": 800, "challengeTypes": ["enemy_rush", "trap_ambush"], "isBoss": true, "bossId": "yarn_ball_cat", "starThresholds": [400, 800, 1200] }
+]

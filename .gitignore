@@ -1,0 +1,31 @@
+# Cocos Creator
+NewProjectAnimal/library/
+NewProjectAnimal/temp/
+NewProjectAnimal/local/
+NewProjectAnimal/build/
+NewProjectAnimal/profiles/
+NewProjectAnimal/native/
+
+# NPM
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# WeChat DevTools
+project.private.config.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Cursor project files
+.cursor/projects/

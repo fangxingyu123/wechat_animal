@@ -1,0 +1,16 @@
+[
+    { "type": 0, "name": "基础方块", "category": "normal", "color": "#FFFFFF", "width": 80, "height": 20, "score": 10, "multiMode": true },
+    { "type": 1, "name": "加速方块", "category": "special", "color": "#FFFF00", "width": 80, "height": 20, "score": 15, "effect": "speed_up", "multiMode": true },
+    { "type": 2, "name": "积分方块", "category": "special", "color": "#FFD700", "width": 80, "height": 20, "score": 50, "effect": "score_bonus", "multiMode": true },
+    { "type": 3, "name": "爱心方块", "category": "special", "color": "#FF69B4", "width": 80, "height": 20, "score": 15, "effect": "heart", "multiMode": true },
+    { "type": 10, "name": "刺球方块", "category": "danger", "color": "#808080", "width": 80, "height": 20, "score": 0, "effect": "spike", "multiMode": true },
+    { "type": 11, "name": "滑溜方块", "category": "danger", "color": "#6495ED", "width": 80, "height": 20, "score": 5, "effect": "slippery", "multiMode": true },
+    { "type": 12, "name": "消失方块", "category": "danger", "color": "#C8C8C8", "width": 80, "height": 20, "score": 20, "effect": "vanish", "vanishDelay": 1.0, "multiMode": true },
+    { "type": 20, "name": "蘑菇方块", "category": "mario", "color": "#DC143C", "width": 80, "height": 20, "score": 25, "effect": "mushroom", "multiMode": false },
+    { "type": 21, "name": "砖块方块", "category": "mario", "color": "#CD853F", "width": 80, "height": 20, "score": 20, "effect": "brick", "multiMode": false },
+    { "type": 22, "name": "管道方块", "category": "mario", "color": "#228B22", "width": 80, "height": 20, "score": 30, "effect": "pipe", "multiMode": false },
+    { "type": 30, "name": "同步方块", "category": "multi", "color": "#8A2BE2", "width": 120, "height": 20, "score": 30, "effect": "sync", "multiMode": true },
+    { "type": 31, "name": "跷跷板方块", "category": "multi", "color": "#FF8C00", "width": 120, "height": 20, "score": 25, "effect": "seesaw", "multiMode": true },
+    { "type": 32, "name": "开关方块", "category": "multi", "color": "#00CED1", "width": 80, "height": 20, "score": 25, "effect": "switch", "multiMode": true },
+    { "type": 33, "name": "磁力方块", "category": "multi", "color": "#C71585", "width": 80, "height": 20, "score": 20, "effect": "magnet", "multiMode": true }
+]
